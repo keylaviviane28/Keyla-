@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 75%;
+    
+}
+header{
+    background:#668284;
+    height: 70px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 15px 
+
+}
+.esquerda{
+    float: left;
+}
+.direita{
+    float: right;
+}
+aside{
+    background: cadetblue;
+    height: 630px;
+    width: 20%;
+    color: black;
+    float: left;
+    border-radius: 10px;
+    margin-bottom: 15px 
+    
+}
+main{
+    background: blueviolet;
+    height: 625px;
+    width: 79%;
+    color: black;
+    float: right;
+    border-radius: 10px;
+    
+}
+footer{
+    background: #668284;
+    height: 50px;
+    color: white;
+    text-align: center;
+    clear: both;
+    border-radius: 10px;
+    padding: 10px;
+}
+section{
+    border: 1px solid black;
+    min-height: 500xp;
+    display: inline-block;
+    width: 95%;
+    margin: 3 2%;
+}
+img{
+    max-height: 100%;
+    max-width: 100%;
+}
